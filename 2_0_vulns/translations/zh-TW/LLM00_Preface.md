@@ -35,15 +35,15 @@ OWASP 大型語言模型應用 Top 10
 ### 繁體中文翻譯團隊
 
 #### Henry Hu / 胡辰澔
-Tranditional Chinese Translation Group / Group Leader
+Traditional Chinese Translation Group / Group Leader
 LinkedIn: https://www.linkedin.com/in/ninedter/
 
 #### Will Huang 
-Tranditional Chinese Translation Group / Reviewer
-LinkedIn: https://www.linkedin.com/in/will-huang-tw/
+Traditional Chinese Translation Group / Reviewer
+Facebook: https://www.facebook.com/will.fans
 
 #### Yingzi Jin
-Tranditional Chinese Translation Group / Reviewer
+Traditional Chinese Translation Group / Reviewer
 LinkedIn: https://www.linkedin.com/in/yingzi-j-77606122a/
 
 ### 關於本次翻譯
